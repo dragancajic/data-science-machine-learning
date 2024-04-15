@@ -1,7 +1,12 @@
-# Introduction to Machine Learning and Datascience
+##### Learn DS & ML • _Data Science and Machine Learning_ 📖
 
-Hey Folks!
+## _Data Science & Machine Learning with Python_
 
-These are all the notebooks used in the codingnomads [Datascience course](https://codingnomads.co/courses/data-science-machine-learning-course?portfolioCats=3)
+_Data Science and Machine Learning_
 
-Please download these when you start the course.  Please raise an issue if you see any problems big or small!
+> Learn the foundations of Data Science (_DS_) and Machine Learning (_ML_) using Python.
+
+Use `Jupyter Lab`, `Numpy`, `Matplotlib`, `Seaborn`, `Pandas`, `Scikit Learn`, and much more to dive into ever more  
+_Advanced Analysis_ and _Predictive Modeling_ using **Data** and **Code**.
+
+[_CODING|NOMADS_](https://codingnomads.com/course/data-science-machine-learning "Learn Data Science and Machine Learning Online | CodingNomads")
